@@ -2,7 +2,7 @@
 
 A derivatives pricing suite built from first principles in Python: Black-Scholes and binomial trees, all five Greeks, delta-hedging simulation, a Heston stochastic-volatility model with Monte Carlo variance reduction, a neural-network price approximator, and a principal-protected structured product. Measured against the live SPY volatility skew.
 
-*Boopesh Mohanraj · MS Engineering Management, Northeastern University*
+*Boopesh Mohanraj*
 
 ---
 
@@ -151,4 +151,4 @@ Stated plainly:
 
 ---
 
-*Part of a six-project quantitative finance portfolio. Data from public APIs (yfinance, FRED). Research and educational project, not investment advice.*
+* Data from public APIs (yfinance, FRED) *
